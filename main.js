@@ -1,4 +1,3 @@
-import {textTo} from '/node/map.js';
 
 setTimeout(() => { 
   console.log("suc")
